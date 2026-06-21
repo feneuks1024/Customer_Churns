@@ -35,7 +35,4 @@
 - `model_worker.py` — запуск моделей;
 - `iranian_churn.csv` — датасет;
 - `model_results.csv` — итоговые метрики;
-- `class_balance_ab_test.csv` — A/B-тест;
-- `cross_validation_results.csv` — результаты по фолдам;
-- `feature_importance.csv` — важность признаков;
 - `requirements.txt` — зависимости.
